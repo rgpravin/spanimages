@@ -3,6 +3,7 @@ company: spacelift
 domain:
  - devops
  - devsecops
+ - security
 tutorial:
   - yaml:
       name: "YAML Ain't Markup Language"
